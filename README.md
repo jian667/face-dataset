@@ -43,3 +43,14 @@ dataset: https://github.com/hezhangsprinter/UFDD
 ### wildest faces
 
 paper: https://arxiv.org/pdf/1805.07566.pdf
+
+### Multi-Attribute Labelled Faces (MALF)
+
+paper: http://www.cbsr.ia.ac.cn/faceevaluation/faceevaluation15.pdf
+
+dataset: http://www.cbsr.ia.ac.cn/faceevaluation/#reference
+
+### IJB-A Dataset
+paper: https://zhaoj9014.github.io/pub/IJBA_1N_report.pdf
+
+dataset: https://www.nist.gov/itl/iad/image-group/ijb-dataset-request-form
