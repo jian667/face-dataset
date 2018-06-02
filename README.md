@@ -63,11 +63,14 @@ paper: https://ibug.doc.ic.ac.uk/media/uploads/documents/sagonas_iccv_2013_300_w
 ### COFW
 
 occluded to different degrees
+
 paper: https://www.microsoft.com/en-us/research/wp-content/uploads/2013/12/BurgosArtizzuICCV13rcpr.pdf
 ### AFLW
 
 faces with large head pose up to 120◦ for yaw and 90◦ for pitch and roll.
+
 paper: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.384.2988&rep=rep1&type=pdf
+
 dataset: https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/
 
 ### WFLW
