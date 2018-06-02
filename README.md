@@ -54,3 +54,26 @@ dataset: http://www.cbsr.ia.ac.cn/faceevaluation/#reference
 paper: https://zhaoj9014.github.io/pub/IJBA_1N_report.pdf
 
 dataset: https://www.nist.gov/itl/iad/image-group/ijb-dataset-request-form
+
+# Face Landmark Detection Dataset
+
+### 300W
+paper: https://ibug.doc.ic.ac.uk/media/uploads/documents/sagonas_iccv_2013_300_w.pdf
+
+### COFW
+
+occluded to different degrees
+paper: https://www.microsoft.com/en-us/research/wp-content/uploads/2013/12/BurgosArtizzuICCV13rcpr.pdf
+### AFLW
+
+faces with large head pose up to 120◦ for yaw and 90◦ for pitch and roll.
+paper: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.384.2988&rep=rep1&type=pdf
+dataset: https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/
+
+### WFLW
+
+from wider face dataset
+
+paper: https://arxiv.org/pdf/1805.10483.pdf
+
+
