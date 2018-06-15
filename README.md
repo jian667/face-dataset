@@ -79,4 +79,21 @@ from wider face dataset
 
 paper: https://arxiv.org/pdf/1805.10483.pdf
 
+# Face Morphable Model
 
+### Basel Face Model
+
+paper: http://gravis.dmi.unibas.ch/publications/2009/BFModel09.pdf
+
+dataset: https://faces.cs.unibas.ch/bfm/main.php?nav=1-0&id=basel_face_model
+
+realted
+
+morphable model viewer: https://github.com/unibas-gravis/basel-face-model-viewer
+
+Registration Pipeline: https://github.com/unibas-gravis/basel-face-pipeline
+
+### Large Scale Facial Model (LSFM)
+
+paper: https://ibug.doc.ic.ac.uk/media/uploads/documents/0002.pdf
+dataset: https://ibug.doc.ic.ac.uk/resources/lsfm/
