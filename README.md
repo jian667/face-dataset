@@ -57,12 +57,23 @@ dataset: https://www.nist.gov/itl/iad/image-group/ijb-dataset-request-form
 
 # Age Estimation Dataset
 
+### Adience dataset
+dataset: https://talhassner.github.io/home/projects/Adience/Adience-data.html
+
+statistic:
+Total number of images: 26,580
+Total number of subjects: 2,284
+Number of age groups: 8 (0-2, 4-6, 8-13, 15-20, 25-32, 38-43, 48-53, 60-)
+Gender labels: Yes
+In the wild: Yes
+Subject labels: Yes 
 
 ### UTK-Face
 dataset: https://susanqq.github.io/UTKFace/
 
 ### APPA-REAL (real and apparent age)
 paper: http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w48/Clapes_From_Apparent_to_CVPR_2018_paper.pdf
+
 dataset: http://chalearnlap.cvc.uab.es/dataset/26/description/
 
 
