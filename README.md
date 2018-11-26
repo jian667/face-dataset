@@ -55,6 +55,17 @@ paper: https://zhaoj9014.github.io/pub/IJBA_1N_report.pdf
 
 dataset: https://www.nist.gov/itl/iad/image-group/ijb-dataset-request-form
 
+# Age Estimation Dataset
+
+
+### UTK-Face
+dataset: https://susanqq.github.io/UTKFace/
+
+### APPA-REAL (real and apparent age)
+paper: http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w48/Clapes_From_Apparent_to_CVPR_2018_paper.pdf
+dataset: http://chalearnlap.cvc.uab.es/dataset/26/description/
+
+
 # Face Landmark Detection Dataset
 
 ### 300W
@@ -98,3 +109,4 @@ Registration Pipeline: https://github.com/unibas-gravis/basel-face-pipeline
 
 paper: https://ibug.doc.ic.ac.uk/media/uploads/documents/0002.pdf
 dataset: https://ibug.doc.ic.ac.uk/resources/lsfm/
+
