@@ -136,7 +136,7 @@ dataset: https://ibug.doc.ic.ac.uk/resources/lsfm/
 
 # Face Forensics
 
-### Face Forensics ++
+### FaceForensics++
 
 paper:https://arxiv.org/pdf/1901.08971.pdf
 
