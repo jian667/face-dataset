@@ -57,6 +57,18 @@ dataset: https://www.nist.gov/itl/iad/image-group/ijb-dataset-request-form
 
 # Age Estimation Dataset
 
+### IMDB-WIKI
+
+paper: https://www.vision.ee.ethz.ch/en/publications/papers/articles/eth_biwi_01299.pdf
+
+dataset: https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
+
+### CACD (Cross-Age Reference Coding for Age-Invariant Face Recognition and Retrieval)
+
+paper: http://cmlab.csie.ntu.edu.tw/~sirius42/papers/chen14eccv.pdf
+
+dataset: https://bcsiriuschen.github.io/CARC/
+
 ### Adience dataset
 dataset: https://talhassner.github.io/home/projects/Adience/Adience-data.html
 
@@ -119,5 +131,16 @@ Registration Pipeline: https://github.com/unibas-gravis/basel-face-pipeline
 ### Large Scale Facial Model (LSFM)
 
 paper: https://ibug.doc.ic.ac.uk/media/uploads/documents/0002.pdf
+
 dataset: https://ibug.doc.ic.ac.uk/resources/lsfm/
+
+# Face Forensics
+
+### Face Forensics ++
+
+paper:https://arxiv.org/pdf/1901.08971.pdf
+
+datset: https://github.com/ondyari/FaceForensics
+
+
 
