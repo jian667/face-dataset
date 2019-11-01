@@ -142,5 +142,16 @@ paper:https://arxiv.org/pdf/1901.08971.pdf
 
 datset: https://github.com/ondyari/FaceForensics
 
+### Celeb-DF
+
+paper: https://arxiv.org/pdf/1909.12962.pdf
+
+datset: http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html
+
+### The Deepfake Detection Challenge (DFDC) Preview Dataset
+
+paper: https://arxiv.org/pdf/1910.08854.pdf
+
+datset: https://deepfakedetectionchallenge.ai/
 
 
