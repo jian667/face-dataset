@@ -154,4 +154,15 @@ paper: https://arxiv.org/pdf/1910.08854.pdf
 
 datset: https://deepfakedetectionchallenge.ai/
 
+# Kinship Verification
+
+###  TALking KINship (TALKIN)
+
+paper: http://www.cs.joensuu.fi/pages/tkinnu/webpage/pdf/audio_visual_kinship_ICB2019.pdf
+
+### Families In the Wild: A Kinship Recognition Benchmark (FIW)
+
+paper: https://web.northeastern.edu/smilelab/fiw/papers/tpami-final.pdf
+
+dataset: https://web.northeastern.edu/smilelab/fiw/
 
