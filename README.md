@@ -55,6 +55,14 @@ paper: https://zhaoj9014.github.io/pub/IJBA_1N_report.pdf
 
 dataset: https://www.nist.gov/itl/iad/image-group/ijb-dataset-request-form
 
+# Face Recognition Dataset
+
+### Racial Faces in-the-Wild: RFW
+
+paper: http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Racial_Faces_in_the_Wild_Reducing_Racial_Bias_by_Information_ICCV_2019_paper.pdf
+
+dataset: http://www.whdeng.cn/RFW/index.html
+
 # Age Estimation Dataset
 
 ### IMDB-WIKI
