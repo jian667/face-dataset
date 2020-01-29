@@ -162,6 +162,13 @@ paper: https://arxiv.org/pdf/1910.08854.pdf
 
 datset: https://deepfakedetectionchallenge.ai/
 
+
+### The Deepfake Detection Challenge (DFDC) Preview Dataset
+
+paper: https://arxiv.org/pdf/2001.03024.pdf
+
+datset: https://liming-jiang.com/projects/DrF1/DrF1.html
+
 # Kinship Verification
 
 ###  TALking KINship (TALKIN)
