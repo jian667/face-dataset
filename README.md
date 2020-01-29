@@ -163,7 +163,7 @@ paper: https://arxiv.org/pdf/1910.08854.pdf
 datset: https://deepfakedetectionchallenge.ai/
 
 
-### The Deepfake Detection Challenge (DFDC) Preview Dataset
+### DeeperForensics-1.0
 
 paper: https://arxiv.org/pdf/2001.03024.pdf
 
