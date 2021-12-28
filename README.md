@@ -162,12 +162,26 @@ paper: https://arxiv.org/pdf/1910.08854.pdf
 
 datset: https://deepfakedetectionchallenge.ai/
 
+### WildDeepfake
+
+paper: https://arxiv.org/pdf/2101.01456.pdf
+
+dataset: https://github.com/deepfakeinthewild/deepfake-in-the-wild
 
 ### DeeperForensics-1.0
 
 paper: https://arxiv.org/pdf/2001.03024.pdf
 
 datset: https://liming-jiang.com/projects/DrF1/DrF1.html
+
+
+# Face Anti-spoofing
+
+### CelebA-Spoof: Large-Scale Face Anti-Spoofing Dataset with Rich Annotations
+
+paper: https://arxiv.org/pdf/2007.12342.pdf
+
+dataset: https://github.com/Davidzhangyuanhan/CelebA-Spoof
 
 # Kinship Verification
 
