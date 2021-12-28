@@ -195,3 +195,11 @@ paper: https://web.northeastern.edu/smilelab/fiw/papers/tpami-final.pdf
 
 dataset: https://web.northeastern.edu/smilelab/fiw/
 
+
+# 3D
+
+### UV-GAN: Adversarial Facial UV Map Completion for Pose-invariant Face Recognition
+
+paper: https://openaccess.thecvf.com/content_cvpr_2018/papers/Deng_UV-GAN_Adversarial_Facial_CVPR_2018_paper.pdf
+
+dataset: https://jiankangdeng.github.io/
